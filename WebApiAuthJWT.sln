@@ -3,31 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.JWT", "WebApi.JWT\WebApi.JWT.csproj", "{F8A3E112-F8B7-4151-91F0-6F9CAE52C55B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationProvider.Core", "Authentication.Core\AuthenticationProvider.Core.csproj", "{D15959F7-5C18-45B4-9846-43609DC52848}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMVC", "WebMVC\WebMVC.csproj", "{15B05932-E7D4-4EDD-BDA0-EF8D84AF8FA5}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F8A3E112-F8B7-4151-91F0-6F9CAE52C55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F8A3E112-F8B7-4151-91F0-6F9CAE52C55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F8A3E112-F8B7-4151-91F0-6F9CAE52C55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F8A3E112-F8B7-4151-91F0-6F9CAE52C55B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D15959F7-5C18-45B4-9846-43609DC52848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D15959F7-5C18-45B4-9846-43609DC52848}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D15959F7-5C18-45B4-9846-43609DC52848}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D15959F7-5C18-45B4-9846-43609DC52848}.Release|Any CPU.Build.0 = Release|Any CPU
-		{15B05932-E7D4-4EDD-BDA0-EF8D84AF8FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{15B05932-E7D4-4EDD-BDA0-EF8D84AF8FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{15B05932-E7D4-4EDD-BDA0-EF8D84AF8FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{15B05932-E7D4-4EDD-BDA0-EF8D84AF8FA5}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
